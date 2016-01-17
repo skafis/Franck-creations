@@ -13,5 +13,13 @@ nav {
 
 .images {
     width: auto;
-    height: 600px;
+    background-color: aqua;
+}
+
+.feed {
+    padding: 10px;
+    width 50%;
+    height: 100px;
+    background-color: #3e3eef;
+    box-sizing: border-box;
 }
