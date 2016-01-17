@@ -1,12 +1,17 @@
 
 header {
-    background-color: brown;
+    background-color: #8ecae5;
     font-size: 45px;
     text-align: center;
     font-family: 'Exo', cursive;
 }
 
 nav {
-    float: left;
+    float: right;
     font-size: 25px;
+}
+
+.images {
+    width: auto;
+    height: 600px;
 }
