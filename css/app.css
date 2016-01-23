@@ -7,6 +7,7 @@ header {
 }
 
 .view {
+    background-size: contain;
     height: 400px;
     border: solid;
 }
@@ -18,4 +19,18 @@ header {
 .type {
     border: solid;
     height: 200px;
+}
+
+.row {
+    padding: 10px;
+}
+
+.sub {
+    border: solid;
+    height: 50%;
+}
+
+.view img {
+    max-height:350px;
+    max-width: 1000px;
 }
