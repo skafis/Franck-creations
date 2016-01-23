@@ -1,25 +1,7 @@
 
 header {
-    background-color: #8ecae5;
-    font-size: 45px;
+    font-family: 'Dancing Script', cursive;
     text-align: center;
-    font-family: 'Exo', cursive;
-}
-
-nav {
-    float: right;
-    font-size: 25px;
-}
-
-.images {
-    width: auto;
-    background-color: aqua;
-}
-
-.feed {
-    padding: 10px;
-    width 50%;
-    height: 100px;
-    background-color: #3e3eef;
-    box-sizing: border-box;
+    font-size: 60px;
+    color: gold;
 }
